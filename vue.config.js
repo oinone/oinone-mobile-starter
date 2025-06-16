@@ -72,7 +72,7 @@ module.exports = {
       '/pamirs': {
         // 支持跨域
         changeOrigin: true,
-        target: 'http://192.168.0.0:8080/'
+        target: 'https://demo.oinone.top'
       }
     }
   }
